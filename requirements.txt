@@ -73,4 +73,4 @@ yaml~=0.2.5
 pyyaml~=6.0
 unidecode~=1.2.0
 zipp~=3.11.0
-flask~=2.2.2
+Flask==3.0.0
