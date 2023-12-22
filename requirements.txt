@@ -1,5 +1,6 @@
 pathlib==1.0.1
-torch==1.10.0
+flask==3.0.0
+torch==2.1.2
 torchvision==0.11.1
 nltk==3.6.3
 defusedxml==0.7.1
