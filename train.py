@@ -13,7 +13,7 @@ from nltk_utils import bag_of_words
 
 nltk.download('punkt')
 
-with open('intents.json', 'r', encoding='utf-8-sig') as f:
+with open('intents.json', 'r', encoding='utf-8') as f:
     intents = json.load(f)
 
 all_words = []
