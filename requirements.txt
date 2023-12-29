@@ -68,4 +68,3 @@ chardet==4.0.0
 pyyaml==6.0
 unidecode==1.2.0
 zipp==3.11.0
-flask==2.2.2
